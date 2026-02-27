@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import '../controller/client_language_provider.dart';
 import '../ui_helpers/client_theme.dart';
 import 'face_scan_screen.dart';
+import 'face_scan_screen.dart';
 import 'favourite_screen.dart';
 
 class EventGalleryScreen extends StatefulWidget {
